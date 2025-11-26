@@ -35,10 +35,15 @@ Take a look around make edits if you dare.
 
 ## Summary
 
-• Experiment with blockchain protocols, smart contracts, and decentralized certification
-• Prototype game engines and studio workflows with modular scaffolds
-• Merge concepts into a cohesive framework for secure, ethical, and creative technology
-• Document everything clearly to empower developers and collaborators
+## Experiment 
+ with blockchain protocols, smart contracts, and decentralized certification
+ Prototype game engines and studio workflows with modular scaffolds
+
+## Merge 
+ concepts into a cohesive framework for secure, ethical, and creative technology
+ 
+### Document 
+everything clearly to empower developers and collaborators
 
 
 
